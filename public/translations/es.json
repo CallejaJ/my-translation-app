@@ -1,0 +1,7 @@
+{
+    "full_name_field": "Introduce tu nombre completo",
+    "email_field": "Introduce tu correo electrónico",
+    "password_field": "Introduce una contraseña segura",
+    "confirm_password_field": "Confirma tu contraseña",
+    "submit_button": "Crear cuenta"
+}
